@@ -41,18 +41,6 @@ class Main {
         }
     }
 
-    /*void binary() {
-        int j = 0;
-        for (int i = ; i > 0; i = i / 2) {
-            (num & i) ? bin[j++] = 1 : bin[j++] = 0;
-        }
-
-        if (num < 0) {
-            bin[j] = 1;
-        } else {
-            bin[j] = 0;
-        }
-    }*/
 
     public static void main(String... args) {
         Main obj = new Main();
